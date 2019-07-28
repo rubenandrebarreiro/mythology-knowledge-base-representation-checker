@@ -1,1 +1,1 @@
-# mythology-checker
+# mythology-knowledge-base-representation-checker
